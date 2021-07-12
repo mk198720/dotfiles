@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marcojmk@tuta.io
+	name = Marco Kjeldsen
